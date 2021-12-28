@@ -1,0 +1,1 @@
+folder này dùng để chứa các bản word đã cũ
